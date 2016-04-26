@@ -1,0 +1,26 @@
+.navbar-collapse{
+	padding-right: 0px;
+}
+
+#header .navbar-nav.navbar-right >li:last-child {
+    margin-right: 0px;
+}
+
+.contact-info.bottom {
+    padding-left: 0px;
+}
+
+#home-slider .btn-common{
+	color: #FFFFFF;
+	background: #00A625;
+	border: 0px solid;
+	font-size: 1.1em;
+}
+
+#home-slider .btn-common:hover{
+	background: #00C52C;
+}
+
+.bottom-separator{
+	border-bottom: 1px solid rgba(4,56,255,0.2);
+}
